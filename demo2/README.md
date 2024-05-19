@@ -51,5 +51,4 @@
     💻 
     private static final Logger log = LoggerFactory.getLogger(Demo22Application.class);
 
-    **Remember:**
-    <span style="color:red">It helps to log the information during execution of application</span>
+$${\color{green}private static final Logger log = LoggerFactory.getLogger(Demo22Application.class);}$$
