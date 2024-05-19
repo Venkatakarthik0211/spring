@@ -51,4 +51,4 @@
     💻 
     private static final Logger log = LoggerFactory.getLogger(Demo22Application.class);
 
-$${\color{green}private static final Logger log = LoggerFactory.getLogger(Demo22Application.class);}$$
+$${\color{green}private \space static \space final \space Logger\space log = LoggerFactory.getLogger(Demo22Application.class);}$$
