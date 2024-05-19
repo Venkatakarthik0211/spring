@@ -1,28 +1,25 @@
 # Start Spring - day 3
 🚀 Let's start with basic pillars 
 
-## Table of Contents
+## To remember 
 
-- [Dependencies](#dependencies)
-- [Packages](#packages)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
-- [ImportantLines](#ImportantLines)
+$${\color{green}Architecture \space Technique \space ----Package \space By \space Feature-----}$$
+
+*The "Package by Feature" technique is an architectural approach where organizing your codebase into packages that correspond to specific features or functionalities of your application.*
 
 ## Dependencies
 
-📦 External Dependencies [Dependencies](#dependencies)
+📦 External Dependencies 
 
 - Spring Boot Web
-- Spring Boot Dev
+- Spring Boot Dev Tools
 
-## Packages [Packages](#packages)
+## Packages 
 
 📦 Different packages used in this project
 - Logger
 
-## Getting Started [Getting Started](#getting-started)
+## Getting Started 
 
 🏁 Include instructions on how to get the project up and running. For example:
 
@@ -30,25 +27,9 @@
 
 2. Install the required dependencies.
 
-3. Configure the database connection.
-
-4. Run the application.
-
-
-## Contributing
-
-🤝 If you'd like to contribute to this project, please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
+3. Run the application.
 
 ## License
 
 📝 This project is licensed under the [MIT License](LICENSE).
 
-## To remember [ImportantLines](#ImportantLines)
-
-💻 
-	private static final Logger log = LoggerFactory.getLogger(Demo22Application.class);
-    ## To remember [ImportantLines](#ImportantLines)
-    💻 
-    private static final Logger log = LoggerFactory.getLogger(Demo22Application.class);
-
-$${\color{green}private \space static \space final \space Logger\space log = LoggerFactory.getLogger(Demo22Application.class);}$$
