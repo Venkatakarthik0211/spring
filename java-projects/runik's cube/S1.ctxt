@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=S1
+comment1.params=Cube_colors
+comment1.target=int[][]\ whiteSide(int[][])
+comment2.params=Cube_colors
+comment2.target=int[][]\ whiteCorner(int[][])
+numComments=3

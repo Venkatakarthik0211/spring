@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=playfair
+comment1.params=
+comment1.target=playfair()
+comment2.params=c
+comment2.target=boolean\ repeat(char)
+comment3.params=key
+comment3.target=void\ insertKey(java.lang.String)
+comment4.params=c
+comment4.target=int\ rowPos(char)
+comment5.params=c
+comment5.target=int\ columnPos(char)
+comment6.params=plain
+comment6.target=java.lang.String\ encryptChar(java.lang.String)
+comment7.params=plainText\ key
+comment7.target=java.lang.String\ Encrypt(java.lang.String,\ java.lang.String)
+comment8.params=cipher
+comment8.target=java.lang.String\ decryptChar(java.lang.String)
+comment9.params=cipherText\ key
+comment9.target=java.lang.String\ Decrypt(java.lang.String,\ java.lang.String)
+numComments=10

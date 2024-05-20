@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Process
+comment1.params=Cube_colors
+comment1.target=int[][]\ whiteFirstCorner(int[][])
+comment2.params=Cube_colors
+comment2.target=int[][]\ whiteSecondCorner(int[][])
+comment3.params=Cube_colors
+comment3.target=int[][]\ whiteThirdCorner(int[][])
+comment4.params=Cube_colors
+comment4.target=int[][]\ whiteFourthCorner(int[][])
+comment5.params=Cube_colors
+comment5.target=int[][]\ whiteCross(int[][])
+comment6.params=Cube_colors
+comment6.target=int[][]\ whiteFirstEdge(int[][])
+comment7.params=Cube_colors
+comment7.target=int[][]\ whiteSecondEdge(int[][])
+comment8.params=Cube_colors
+comment8.target=int[][]\ whiteThirdEdge(int[][])
+comment9.params=Cube_colors
+comment9.target=int[][]\ whiteFourthEdge(int[][])
+numComments=10
