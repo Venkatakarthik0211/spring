@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=CC
+comment1.params=colors
+comment1.target=int[][]\ GreenCW(int[][])
+comment10.params=colors
+comment10.target=int[][]\ OrangeCCW(int[][])
+comment11.params=colors
+comment11.target=int[][]\ RedCW(int[][])
+comment12.params=colors
+comment12.target=int[][]\ RedCCW(int[][])
+comment2.params=colors
+comment2.target=int[][]\ GreenCCW(int[][])
+comment3.params=colors
+comment3.target=int[][]\ WhiteCW(int[][])
+comment4.params=colors
+comment4.target=int[][]\ WhiteCCW(int[][])
+comment5.params=colors
+comment5.target=int[][]\ BlueCW(int[][])
+comment6.params=colors
+comment6.target=int[][]\ BlueCCW(int[][])
+comment7.params=colors
+comment7.target=int[][]\ YellowCW(int[][])
+comment8.params=colors
+comment8.target=int[][]\ YellowCCW(int[][])
+comment9.params=colors
+comment9.target=int[][]\ OrangeCW(int[][])
+numComments=13
