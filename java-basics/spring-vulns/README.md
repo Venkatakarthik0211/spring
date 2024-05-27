@@ -128,7 +128,11 @@ Generally, when used (localhost, admin, .... etc) or (respective backend server 
 
 # Blind SSRF
 
-To identify Blind SSRF, performing OAST Testing is necessary.
+* SSRF is a vulnerability that allows an attacker to make requests from the vulnerable server to other internal or external resources.
+ * Blind SSRF refers to a situation where the attacker cannot directly see the response of the request in frontend, but can still exploit the vulnerability. 
+ * This code should be used for educational purposes only and should not be used in a production environment without proper security measures.
+
+To identify Blind SSRF, performing OAST Testing is necessary, use BURP collaborator for identifying it.
 
 ### Different Types of Automated Testing
 
@@ -152,4 +156,5 @@ To identify Blind SSRF, performing OAST Testing is necessary.
 
 Out-of-band application security testing (OAST) utilizes external servers to detect otherwise invisible vulnerabilities. It enhances the DAST (Dynamic Application Security Testing) model.
 
+<img src="https://raw.githubusercontent.com/Venkatakarthik0211/spring/07358285b830b5762fe0dde30283313ac3bd1996/java-basics/profile_images_and_icons/oast-venn-diagram.svg" alt="OAST Venn Diagram" align="centre" />
 
