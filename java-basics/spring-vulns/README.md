@@ -112,6 +112,7 @@ Generally, when used (localhost, admin, .... etc) or (respective backend server 
 | Prevention Measures                                    |
 |--------------------------------------------------------|
 | - Input Sanitization (allowed domains, protocols etc.) |
+| - Make sure to Avoid Open Redirections, URL's in request header or in data formats(XML) | 
 | - Whitelisting certain IP addresses for outgoing requests |
 | - Whitelisting URL based requests |
 | - Network segmentation to minimize SSRF attack surface |
